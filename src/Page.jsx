@@ -17,7 +17,6 @@ import {
   SousPasta,
   XolodnyNapitki,
 } from "./components";
-import { border } from "./assets";
 
 function Page() {
   return (
