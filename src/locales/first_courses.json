@@ -1,0 +1,23 @@
+{
+  "title": { "ru": "Первые Блюда", "en": "First Courses" },
+  "appetizers": [
+    {
+      "name": { "ru": "Щи зелёное", "en": "Green Cabbage Soup" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Солянка", "en": "Solanka" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Окрошка на кефире", "en": "Okroshka on Kefir" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    }
+  ]
+}

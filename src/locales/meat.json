@@ -1,0 +1,107 @@
+{
+  "beef_courses": {
+    "title": {
+      "ru": "Вторые Блюда из Говядины",
+      "en": "Second Courses from Beef"
+    },
+    "dishes": [
+      {
+        "name": { "ru": "Филе по-техасски", "en": "Texas-Style Fillet" },
+        "description": {
+          "ru": "Филе, шампиньоны, соус барбекю",
+          "en": "Fillet, mushrooms, barbecue sauce"
+        },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Люля кебаб по Турецки", "en": "Turkish Lule Kebab" },
+        "description": {
+          "ru": "Фарш, баклажаны, специи",
+          "en": "Minced meat, eggplants, spices"
+        },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": {
+          "ru": "Бефстроганов со сметаной и грибами",
+          "en": "Beef Stroganoff with Sour Cream and Mushrooms"
+        },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Мясо по-французски", "en": "French-Style Meat" },
+        "description": {
+          "ru": "Мясо, картофель, лук, сыр",
+          "en": "Meat, potatoes, onions, cheese"
+        },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      }
+    ]
+  },
+  "chicken_courses": {
+    "title": {
+      "ru": "Вторые Блюда из Курицы",
+      "en": "Second Courses from Chicken"
+    },
+    "dishes": [
+      {
+        "name": { "ru": "Цыплёнок табака", "en": "Tabaka Chicken" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Гауда", "en": "Gouda" },
+        "description": {
+          "ru": "С мясом с грибами в сливочном соусе",
+          "en": "With meat and mushrooms in creamy sauce"
+        },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Филе по-тайски", "en": "Thai-Style Fillet" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      }
+    ]
+  },
+  "lamb_courses": {
+    "title": {
+      "ru": "Вторые Блюда из Баранины",
+      "en": "Second Courses from Lamb"
+    },
+    "dishes": [
+      {
+        "name": { "ru": "Сковорода", "en": "Skillet" },
+        "description": {
+          "ru": "Баранина, картофель, специи",
+          "en": "Lamb, potatoes, spices"
+        },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Плов по-домашнему", "en": "Homestyle Pilaf" },
+        "description": {
+          "ru": "С мясом с грибами в сливочном соусе",
+          "en": "With meat and mushrooms in creamy sauce"
+        },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Казан кебаб", "en": "Kazan Kebab" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      }
+    ]
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "title": { "ru": "Горячие закуски", "en": "Hot Appetizers" },
+  "appetizers": [
+    {
+      "name": { "ru": "Язык в сливочном соусе", "en": "Tongue in Cream Sauce" },
+      "description": {
+        "ru": "(язык, шампиньоны, сливки)",
+        "en": "(tongue, champignons, cream)"
+      },
+      "price": 90000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Бинджак", "en": "Bindjak" },
+      "description": {
+        "ru": "(лаваш, брынза, сыр, помидоры, кинза)",
+        "en": "(lavash, brynza cheese, tomatoes, cilantro)"
+      },
+      "price": 35000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Жюльен куриный", "en": "Chicken Julienne" },
+      "description": {
+        "ru": "(кур. филе, сливки, сыр)",
+        "en": "(chicken fillet, cream, cheese)"
+      },
+      "price": 85000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Жюльен грибной", "en": "Mushroom Julienne" },
+      "description": {
+        "ru": "(шампиньоны, сливки, сыр)",
+        "en": "(champignons, cream, cheese)"
+      },
+      "price": 90000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Наггетсы", "en": "Nuggets" },
+      "description": {
+        "ru": "(кур. фарш, сухари панир)",
+        "en": "(chicken mince, breadcrumbs)"
+      },
+      "price": 48000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Чикен фри", "en": "Chicken Fry" },
+      "description": {
+        "ru": "(кур. филе, сухари панир)",
+        "en": "(chicken fillet, breadcrumbs)"
+      },
+      "price": 90000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Гренки", "en": "Croutons" },
+      "description": {
+        "ru": "(черный хлеб, чеснок, сыр)",
+        "en": "(black bread, garlic, cheese)"
+      },
+      "price": 48000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Мулатка", "en": "Mulatta" },
+      "description": {
+        "ru": "(гречка, майонез, сыр)",
+        "en": "(buckwheat, mayonnaise, cheese)"
+      },
+      "price": 25000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Крылышки с соусом барбекю",
+        "en": "Wings with Barbecue Sauce"
+      },
+      "description": {
+        "ru": "(куриные крылышки, соус барбекю, кунжут)",
+        "en": "(chicken wings, barbecue sauce, sesame)"
+      },
+      "price": 80000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Баклажаны с сыром", "en": "Eggplants with Cheese" },
+      "description": {
+        "ru": "(баклажаны, помидоры, сыр)",
+        "en": "(eggplants, tomatoes, cheese)"
+      },
+      "price": 35000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Закуска от шефа",
+        "en": "Appetizer from the Chef"
+      },
+      "description": {
+        "ru": "(говядина, баклажан, соус от шефа, сыр)",
+        "en": "(beef, eggplant, chef's sauce, cheese)"
+      },
+      "price": 48000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    }
+  ]
+}

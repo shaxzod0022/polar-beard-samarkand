@@ -1,0 +1,89 @@
+{
+  "title": { "ru": "Шашлыки", "en": "Shashliks" },
+  "appetizers": [
+    {
+      "name": { "ru": "Молотый", "en": "Ground" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Кусковой говядины", "en": "Chunk of Beef" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Викин баран", "en": "Viking Lamb" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Корейка баранина", "en": "Lamb Loin" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Крылышки", "en": "Wings" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Куриное филе", "en": "Chicken Fillet" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Рулет", "en": "Roll" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Рюкзак баранина", "en": "Lamb Backpack" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Печень", "en": "Liver" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Колбаски на гриле", "en": "Grilled Sausages" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Котлеты на мангале", "en": "Grilled Cutlets" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Овощи на мангале", "en": "Grilled Vegetables" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Хлеб на мангале", "en": "Grilled Bread" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Шашлык ассорти", "en": "Shashlik Assortment" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    }
+  ]
+}

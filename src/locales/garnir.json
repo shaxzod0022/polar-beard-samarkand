@@ -1,0 +1,47 @@
+{
+    "title": { "ru": "Гарниры", "en": "Garnishes" },
+    "garnishes": [
+      {
+        "name": { "ru": "Фри", "en": "Fries" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Картофель по-домашнему", "en": "Homestyle Potatoes" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Пюре со сливками", "en": "Creamy Mashed Potatoes" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Пюре с жареным луком", "en": "Mashed Potatoes with Fried Onions" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Рис", "en": "Rice" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Айдахо", "en": "Idaho" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Жареные шампиньоны", "en": "Fried Mushrooms" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      }
+    ]
+  }

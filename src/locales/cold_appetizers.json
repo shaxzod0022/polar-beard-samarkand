@@ -1,0 +1,92 @@
+{
+  "title": { "ru": "Холодные закуски", "en": "Cold Appetizers" },
+  "appetizers": [
+    {
+      "name": { "ru": "Мясная тарелка 1.0/0.5", "en": "Meat Platter 1.0/0.5" },
+      "description": {
+        "ru": "(казы, кур. рулет, язык, говядина)",
+        "en": "(kazy, chicken roulade, tongue, beef)"
+      },
+      "price": "140000/75000",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Рыбное ассорти", "en": "Fish Assortment" },
+      "description": {
+        "ru": "(лосось с/с, скумбрия х/к, масляная х/к)",
+        "en": "(salted salmon, smoked mackerel, smoked butterfish)"
+      },
+      "price": 200000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Сырная тарелка", "en": "Cheese Platter" },
+      "description": {
+        "ru": "(хорезмский, фетакса, пармезан, копченый)",
+        "en": "(Khorezm cheese, feta, parmesan, smoked cheese)"
+      },
+      "price": 85000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Ассорти из маринованных солений",
+        "en": "Pickled Vegetables Assortment"
+      },
+      "description": {
+        "ru": "(черри, патиссон, чеснок, корнишон)",
+        "en": "(cherry tomatoes, patisson squash, garlic, gherkins)"
+      },
+      "price": 65000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Ассорти из свежих овощей и зелени",
+        "en": "Fresh Vegetables and Greens Assortment"
+      },
+      "description": {
+        "ru": "(помидоры, огурцы, паприка, зелень)",
+        "en": "(tomatoes, cucumbers, paprika, greens)"
+      },
+      "price": 50000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Лаваш с зеленью и брынзой",
+        "en": "Lavash with Greens and Brynza"
+      },
+      "description": {
+        "ru": "(лаваш, брынза, кинза, лук зелёный)",
+        "en": "(lavash, brynza, cilantro, green onion)"
+      },
+      "price": 35000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Чакка", "en": "Chakka" },
+      "description": { "ru": "", "en": "" },
+      "price": 10000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Лимон", "en": "Lemon" },
+      "description": { "ru": "", "en": "" },
+      "price": 10000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Оливки-маслины", "en": "Olives" },
+      "description": { "ru": "", "en": "" },
+      "price": 20000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Сельдь по-русски", "en": "Russian-Style Herring" },
+      "description": { "ru": "", "en": "" },
+      "price": 45000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    }
+  ]
+}

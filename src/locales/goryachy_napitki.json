@@ -1,0 +1,59 @@
+{
+  "title": { "ru": "Горячие напитки", "en": "Hot Drinks" },
+  "dishes": [
+    {
+      "name": { "ru": "Кофе черный", "en": "Black Coffee" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Кофе 3 в 1", "en": "3-in-1 Coffee" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Турецкий кофе", "en": "Turkish Coffee" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Чай черный/зеленый", "en": "Black/Green Tea" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Чай с лимоном", "en": "Tea with Lemon" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Чай медвежий", "en": "Herbal Tea" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Чай ягодный", "en": "Berry Tea" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Чай с чабрецом", "en": "Tea with Chanterelles" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Имбирный чай с медом", "en": "Ginger Tea with Honey" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    }
+  ]
+}

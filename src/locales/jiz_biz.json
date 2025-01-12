@@ -1,0 +1,44 @@
+{
+  "title": { "ru": "Джиз и Джиз-Биз", "en": "Dzhiz and Dzhiz-Biz" },
+  "dishes": [
+    {
+      "name": { "ru": "Умакай баранина", "en": "Umakai Lamb" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Умакай говядина", "en": "Umakai Beef" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Вагури баранина", "en": "Vaguri Lamb" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Кузылча баранина на палочке",
+        "en": "Kuzylcha Lamb on a Stick"
+      },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Из вырезки", "en": "From the Tenderloin" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Корейка баранины", "en": "Lamb Loin" },
+      "description": { "ru": "", "en": "" },
+      "price": "н/д",
+      "valuta": { "ru": "сум", "en": "sum" }
+    }
+  ]
+}

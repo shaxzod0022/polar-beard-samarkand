@@ -1,0 +1,176 @@
+{
+  "title": { "ru": "салаты", "en": "salads" },
+  "salad": [
+    {
+      "name": { "ru": "Хрустящий баклажан", "en": "Crispy Eggplant" },
+      "description": {
+        "ru": "(баклажаны, черри, мацарелла, соус)",
+        "en": "(eggplants, cherry tomatoes, mozzarella, sauce)"
+      },
+      "price": 50000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Мужской каприз", "en": "Men's Whim" },
+      "description": {
+        "ru": "(язык, сервелат, сыр, индейка, кукуруза)",
+        "en": "(tongue, cervelat, cheese, turkey, corn)"
+      },
+      "price": 45000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Грибной", "en": "Mushroom" },
+      "description": {
+        "ru": "(говядина, грибы, марин. огурцы, паприка, крас. лук)",
+        "en": "(beef, mushrooms, pickled cucumbers, paprika, red onion)"
+      },
+      "price": 38000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Греческий", "en": "Greek" },
+      "description": {
+        "ru": "(помидор, огурец, оливки, фетакса, лук)",
+        "en": "(tomato, cucumber, olives, feta cheese, onion)"
+      },
+      "price": 40000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Рукола с креветками", "en": "Arugula with Shrimps" },
+      "description": {
+        "ru": "(рукола, черри, креветки, бальзамик)",
+        "en": "(arugula, cherry tomatoes, shrimps, balsamic)"
+      },
+      "price": 65000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Азия", "en": "Asia" },
+      "description": {
+        "ru": "(язык, помидоры, огурцы, салатный лист, бальзамик)",
+        "en": "(tongue, tomatoes, cucumbers, lettuce, balsamic)"
+      },
+      "price": 35000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Белый медведь", "en": "White Bear" },
+      "description": {
+        "ru": "(специальный фирменный салат)",
+        "en": "(special signature salad)"
+      },
+      "price": 65000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Шанхай", "en": "Shanghai" },
+      "description": {
+        "ru": "(азиатский стиль салат)",
+        "en": "(Asian-style salad)"
+      },
+      "price": 38000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Оливье", "en": "Olivier" },
+      "description": {
+        "ru": "(классический салат с курицей)",
+        "en": "(classic salad with chicken)"
+      },
+      "price": 40000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Лаззат", "en": "Lazzat" },
+      "description": {
+        "ru": "(узбекский традиционный салат)",
+        "en": "(Uzbek traditional salad)"
+      },
+      "price": 45000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Французский", "en": "French" },
+      "description": {
+        "ru": "(салат в французском стиле)",
+        "en": "(French-style salad)"
+      },
+      "price": 50000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Смак классический", "en": "Classic Smak" },
+      "description": {
+        "ru": "(простой и вкусный салат)",
+        "en": "(simple and tasty salad)"
+      },
+      "price": 40000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Свежий", "en": "Fresh" },
+      "description": {
+        "ru": "(легкий и освежающий салат)",
+        "en": "(light and refreshing salad)"
+      },
+      "price": 43000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Ачик-чучук", "en": "Achik-Chuchuk" },
+      "description": {
+        "ru": "(помидоры, лук, зелень)",
+        "en": "(tomatoes, onion, greens)"
+      },
+      "price": 35000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Махшуртола", "en": "Mahshurtola" },
+      "description": {
+        "ru": "(традиционный узбекский салат)",
+        "en": "(traditional Uzbek salad)"
+      },
+      "price": 38000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Чабо", "en": "Chabo" },
+      "description": {
+        "ru": "(салат с курицей и овощами)",
+        "en": "(salad with chicken and vegetables)"
+      },
+      "price": 46000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Цезарь с курицей", "en": "Caesar with Chicken" },
+      "description": {
+        "ru": "(классический цезарь с курицей)",
+        "en": "(classic Caesar with chicken)"
+      },
+      "price": 65000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Цезарь с креветкой", "en": "Caesar with Shrimp" },
+      "description": {
+        "ru": "(классический цезарь с креветками)",
+        "en": "(classic Caesar with shrimps)"
+      },
+      "price": 70000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Чирокчи", "en": "Chirokchi" },
+      "description": {
+        "ru": "(местный фирменный салат)",
+        "en": "(local signature salad)"
+      },
+      "price": 48000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    }
+  ]
+}

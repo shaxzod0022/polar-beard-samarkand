@@ -1,0 +1,69 @@
+{
+  "desserts": {
+    "title": { "ru": "Десерт", "en": "Desserts" },
+    "dishes": [
+      {
+        "name": { "ru": "Мороженое (150 г)", "en": "Ice Cream (150 g)" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Шоколад", "en": "Chocolate" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Наполеон", "en": "Napoleon" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Медовик", "en": "Medovik" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      }
+    ]
+  },
+  "bread_assortments": {
+    "title": { "ru": "Хлебное ассорти", "en": "Bread Assortments" },
+    "dishes": [
+      {
+        "name": {
+          "ru": "Ассорти из 3х видов хлеба",
+          "en": "Assortment of 3 Types of Bread"
+        },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Фатир", "en": "Fatir" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Чёрный хлеб", "en": "Black Bread" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Чак-чак", "en": "Chak-Chak" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": { "ru": "Самаркандская", "en": "Samarkand" },
+        "description": { "ru": "", "en": "" },
+        "price": "н/д",
+        "valuta": { "ru": "сум", "en": "sum" }
+      }
+    ]
+  }
+}
