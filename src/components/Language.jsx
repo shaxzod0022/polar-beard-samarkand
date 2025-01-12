@@ -21,7 +21,7 @@ const Language = () => {
 
   return (
     <button
-      className="fixed md:top-[30px] top-[20px] right-[20px] md:right-[60px] bg-blue-500/50 hover:bg-blue-500/70 transition-all text-white font-semibold text-[20px] uppercase rounded-lg px-[20px] py-[4px]"
+      className="fixed md:top-[30px] top-[20px] right-[20px] md:right-[60px] bg-blue-500/50 hover:bg-blue-500/70 transition-all text-white font-semibold text-[20px] uppercase rounded-lg px-[18px] py-[4px]"
       onClick={updateLanguage}
     >
       {language}
