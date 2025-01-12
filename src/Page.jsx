@@ -17,6 +17,7 @@ import {
   SousPasta,
   XolodnyNapitki,
 } from "./components";
+import { border } from "./assets";
 
 function Page() {
   return (
@@ -24,18 +25,31 @@ function Page() {
       <Language />
       <Header />
       <Head />
+      <hr className="h-[2px] w-full bg-black" />
       <Salads />
+      <hr className="h-[2px] w-full bg-black" />
       <Appetizers />
+      <hr className="h-[2px] w-full bg-black" />
       <ColdAppetizers />
+      <hr className="h-[2px] w-full bg-black" />
       <Shashlik />
+      <hr className="h-[2px] w-full bg-black" />
       <FirstCourses />
+      <hr className="h-[2px] w-full bg-black" />
       <Garnir />
+      <hr className="h-[2px] w-full bg-black" />
       <Meat />
+      <hr className="h-[2px] w-full bg-black" />
       <JizBiz />
+      <hr className="h-[2px] w-full bg-black" />
       <SousPasta />
+      <hr className="h-[2px] w-full bg-black" />
       <DisertHlep />
+      <hr className="h-[2px] w-full bg-black" />
       <GoryachyNapitki />
+      <hr className="h-[2px] w-full bg-black" />
       <XolodnyNapitki />
+      <hr className="h-[2px] w-full bg-black" />
       <Footer />
     </div>
   );

@@ -6,7 +6,7 @@ import { useSelector } from "react-redux";
 const Salads = () => {
   const language = useSelector((state) => state.language);
   return (
-    <div className={`${style.flexCol} items-center sm:py-20 py-16 px-4 w-full`}>
+    <div className={`${style.flexCol}  items-center sm:py-20 py-16 px-4 w-full`}>
       <h2 className="sm:text-[50px] text-[35px] text-blue-950 uppercase font-bold mb-4 text-center">
         {saladsData.title[language]}
       </h2>
