@@ -35,7 +35,6 @@ function Page() {
       <Shashlik />
       <hr className="h-[2px] w-[92%] bg-blue-950" />
       <FirstCourses />
-      <hr className="h-[2px] w-[92%] bg-blue-950" />
       <Garnir />
       <hr className="h-[2px] w-[92%] bg-blue-950" />
       <Meat />
