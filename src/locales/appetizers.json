@@ -4,8 +4,8 @@
     {
       "name": { "ru": "Язык в сливочном соусе", "en": "Tongue in Cream Sauce" },
       "description": {
-        "ru": "(язык, шампиньоны, сливки)",
-        "en": "(tongue, champignons, cream)"
+        "ru": "(язык говяжий, шампиньоны, сливки)",
+        "en": "(tongue beef, champignons, cream)"
       },
       "price": 90000,
       "valuta": { "ru": "сум", "en": "sum" }
@@ -22,28 +22,10 @@
     {
       "name": { "ru": "Жюльен куриный", "en": "Chicken Julienne" },
       "description": {
-        "ru": "(кур. филе, сливки, сыр)",
-        "en": "(chicken fillet, cream, cheese)"
+        "ru": "(кур. филе, сливки, сыр, грибы шампиньоны)",
+        "en": "(chicken fillet, cream, cheese, mushrooms champignons)"
       },
       "price": 85000,
-      "valuta": { "ru": "сум", "en": "sum" }
-    },
-    {
-      "name": { "ru": "Жюльен грибной", "en": "Mushroom Julienne" },
-      "description": {
-        "ru": "(шампиньоны, сливки, сыр)",
-        "en": "(champignons, cream, cheese)"
-      },
-      "price": 90000,
-      "valuta": { "ru": "сум", "en": "sum" }
-    },
-    {
-      "name": { "ru": "Наггетсы", "en": "Nuggets" },
-      "description": {
-        "ru": "(кур. фарш, сухари панир)",
-        "en": "(chicken mince, breadcrumbs)"
-      },
-      "price": 48000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
@@ -53,15 +35,6 @@
         "en": "(chicken fillet, breadcrumbs)"
       },
       "price": 90000,
-      "valuta": { "ru": "сум", "en": "sum" }
-    },
-    {
-      "name": { "ru": "Гренки", "en": "Croutons" },
-      "description": {
-        "ru": "(черный хлеб, чеснок, сыр)",
-        "en": "(black bread, garlic, cheese)"
-      },
-      "price": 48000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
@@ -88,10 +61,37 @@
     {
       "name": { "ru": "Баклажаны с сыром", "en": "Eggplants with Cheese" },
       "description": {
-        "ru": "(баклажаны, помидоры, сыр)",
-        "en": "(eggplants, tomatoes, cheese)"
+        "ru": "(баклажаны, помидоры, сыр, зелень)",
+        "en": "(eggplants, tomatoes, cheese, green)"
       },
       "price": 35000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Жюльен грибной", "en": "Mushroom Julienne" },
+      "description": {
+        "ru": "(шампиньоны, сливки, сыр)",
+        "en": "(champignons, cream, cheese)"
+      },
+      "price": "недоступно",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Наггетсы", "en": "Nuggets" },
+      "description": {
+        "ru": "(кур. фарш, сухари панир)",
+        "en": "(chicken mince, breadcrumbs)"
+      },
+      "price": "недоступно",
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Гренки", "en": "Croutons" },
+      "description": {
+        "ru": "(черный хлеб, чеснок, сыр)",
+        "en": "(black bread, garlic, cheese)"
+      },
+      "price": "недоступно",
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
@@ -103,7 +103,7 @@
         "ru": "(говядина, баклажан, соус от шефа, сыр)",
         "en": "(beef, eggplant, chef's sauce, cheese)"
       },
-      "price": 48000,
+      "price": "недоступно",
       "valuta": { "ru": "сум", "en": "sum" }
     }
   ]

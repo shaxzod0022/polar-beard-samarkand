@@ -14,7 +14,7 @@ const Garnir = () => {
       <div className={`${style.flexCol} gap-8 md:w-[80%] w-full`}>
         {garnirData.garnishes.map((salad, index) => (
           <div key={index} className={`${style.flexBetween} font-titleFont`}>
-            <div>
+            <div className="w-[70%]">
               <p className="font-semibold md:leading-10 sm:leading-7 leading-5  visible md:text-[40px] sm:text-[30px] text-[22px]">
                 {salad.name[language]}
               </p>

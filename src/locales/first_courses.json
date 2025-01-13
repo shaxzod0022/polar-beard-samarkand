@@ -4,19 +4,37 @@
     {
       "name": { "ru": "Щи зелёное", "en": "Green Cabbage Soup" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 25000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
       "name": { "ru": "Солянка", "en": "Solanka" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 35000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Окрошка на кефире", "en": "Okroshka on Kefir" },
+      "name": { "ru": "Борщ", "en": "Borsch" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 25000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Бульон", "en": "Bouillon" },
+      "description": { "ru": "", "en": "" },
+      "price": 25000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Шурпа", "en": "Shurpa" },
+      "description": { "ru": "", "en": "" },
+      "price": 25000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Чечевичный суп", "en": "Lentil soup" },
+      "description": { "ru": "", "en": "" },
+      "price": 25000,
       "valuta": { "ru": "сум", "en": "sum" }
     }
   ]

@@ -4,8 +4,8 @@
     {
       "name": { "ru": "Мясная тарелка 1.0/0.5", "en": "Meat Platter 1.0/0.5" },
       "description": {
-        "ru": "(казы, кур. рулет, язык, говядина)",
-        "en": "(kazy, chicken roulade, tongue, beef)"
+        "ru": "(казы, кур. рулет, язык, говядина, индейка)",
+        "en": "(kazy, chicken roulade, tongue, beef, turkey)"
       },
       "price": "140000/75000",
       "valuta": { "ru": "сум", "en": "sum" }
@@ -22,8 +22,8 @@
     {
       "name": { "ru": "Сырная тарелка", "en": "Cheese Platter" },
       "description": {
-        "ru": "(хорезмский, фетакса, пармезан, копченый)",
-        "en": "(Khorezm cheese, feta, parmesan, smoked cheese)"
+        "ru": "(хорезмский, фетакса, мраморный, сыр с зеленю, мёд, курага,  орехи)",
+        "en": "(Khorezm cheese, feta, marble, cheese with herbs, honey, dried apricots, nuts)"
       },
       "price": 85000,
       "valuta": { "ru": "сум", "en": "sum" }
@@ -37,7 +37,7 @@
         "ru": "(черри, патиссон, чеснок, корнишон)",
         "en": "(cherry tomatoes, patisson squash, garlic, gherkins)"
       },
-      "price": 65000,
+      "price": 25000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
@@ -49,7 +49,7 @@
         "ru": "(помидоры, огурцы, паприка, зелень)",
         "en": "(tomatoes, cucumbers, paprika, greens)"
       },
-      "price": 50000,
+      "price": 35000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
@@ -71,6 +71,12 @@
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
+      "name": { "ru": "Чалоб", "en": "Chalobah" },
+      "description": { "ru": "", "en": "" },
+      "price": 15000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
       "name": { "ru": "Лимон", "en": "Lemon" },
       "description": { "ru": "", "en": "" },
       "price": 10000,
@@ -86,6 +92,12 @@
       "name": { "ru": "Сельдь по-русски", "en": "Russian-Style Herring" },
       "description": { "ru": "", "en": "" },
       "price": 45000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Зелен ассорти", "en": "Green Assortment" },
+      "description": { "ru": "", "en": "" },
+      "price": 30000,
       "valuta": { "ru": "сум", "en": "sum" }
     }
   ]

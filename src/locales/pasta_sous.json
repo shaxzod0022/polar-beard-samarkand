@@ -5,13 +5,16 @@
       {
         "name": { "ru": "Болоньезе", "en": "Bolognese" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 55000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
-        "name": { "ru": "Карбонара", "en": "Carbonara" },
+        "name": {
+          "ru": "Фетучини с курицей и грибами",
+          "en": "Fettuccine with chicken and mushrooms"
+        },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 50000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
@@ -20,7 +23,7 @@
           "en": "With Mushrooms in Cream Sauce"
         },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 55000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
@@ -29,16 +32,7 @@
           "en": "With Shrimp and Pesto Sauce"
         },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
-      },
-      {
-        "name": {
-          "ru": "От шефа (мясо на выбор)",
-          "en": "Chef's Special (Meat of Choice)"
-        },
-        "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 65000,
         "valuta": { "ru": "сум", "en": "sum" }
       }
     ]
@@ -47,33 +41,27 @@
     "title": { "ru": "Соусы", "en": "Sauces" },
     "dishes": [
       {
-        "name": { "ru": "Томатный", "en": "Tomato" },
-        "description": { "ru": "", "en": "" },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
-      },
-      {
         "name": { "ru": "Тар-тар", "en": "Tartare" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 10000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
         "name": { "ru": "Сырный", "en": "Cheese" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 10000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
         "name": { "ru": "Из свежих томатов", "en": "From Fresh Tomatoes" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 15000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
         "name": { "ru": "Кетчуп", "en": "Ketchup" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 8000,
         "valuta": { "ru": "сум", "en": "sum" }
       }
     ]

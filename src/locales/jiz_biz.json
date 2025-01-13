@@ -2,42 +2,36 @@
   "title": { "ru": "Джиз и Джиз-Биз", "en": "Dzhiz and Dzhiz-Biz" },
   "dishes": [
     {
-      "name": { "ru": "Умакай баранина", "en": "Umakai Lamb" },
+      "name": { "ru": "Умакай баранина 1кг", "en": "Umakai Lamb 1kg" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 220000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Умакай говядина", "en": "Umakai Beef" },
+      "name": { "ru": "Вагури баранина 1кг", "en": "Vaguri Lamb 1kg" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
-      "valuta": { "ru": "сум", "en": "sum" }
-    },
-    {
-      "name": { "ru": "Вагури баранина", "en": "Vaguri Lamb" },
-      "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 220000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
       "name": {
-        "ru": "Кузылча баранина на палочке",
-        "en": "Kuzylcha Lamb on a Stick"
+        "ru": "Кузылча баранина на палочке 1кг",
+        "en": "Kuzylcha Lamb on a Stick 1kg"
       },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 220000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Из вырезки", "en": "From the Tenderloin" },
+      "name": { "ru": "Из вырезки 1кг", "en": "From the Tenderloin 1kg" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 240000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Корейка баранины", "en": "Lamb Loin" },
+      "name": { "ru": "Корейка баранины 1кг", "en": "Lamb Loin 1kg" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 240000,
       "valuta": { "ru": "сум", "en": "sum" }
     }
   ]

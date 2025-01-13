@@ -5,25 +5,34 @@
       {
         "name": { "ru": "Мороженое (150 г)", "en": "Ice Cream (150 g)" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 15000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
         "name": { "ru": "Шоколад", "en": "Chocolate" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 20000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
         "name": { "ru": "Наполеон", "en": "Napoleon" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 20000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
         "name": { "ru": "Медовик", "en": "Medovik" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 20000,
+        "valuta": { "ru": "сум", "en": "sum" }
+      },
+      {
+        "name": {
+          "ru": "Фруктовое ассорти 1.0 / 0.5",
+          "en": "Fruit assortment 1.0 / 0.5"
+        },
+        "description": { "ru": "", "en": "" },
+        "price": 200000,
         "valuta": { "ru": "сум", "en": "sum" }
       }
     ]
@@ -33,35 +42,35 @@
     "dishes": [
       {
         "name": {
-          "ru": "Ассорти из 3х видов хлеба",
-          "en": "Assortment of 3 Types of Bread"
+          "ru": "Ассорти из 4х видов хлеба",
+          "en": "Assortment of 4 Types of Bread"
         },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 20000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
         "name": { "ru": "Фатир", "en": "Fatir" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 10000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
-        "name": { "ru": "Чёрный хлеб", "en": "Black Bread" },
+        "name": { "ru": "Кульча", "en": "Kulcha" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 6000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
-        "name": { "ru": "Чак-чак", "en": "Chak-Chak" },
+        "name": { "ru": "Чап-чак", "en": "Chap-Chak" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 60000,
         "valuta": { "ru": "сум", "en": "sum" }
       },
       {
-        "name": { "ru": "Самаркандская", "en": "Samarkand" },
+        "name": { "ru": "Батон (ржаной, ореховый)", "en": "Baton (rye, nut)" },
         "description": { "ru": "", "en": "" },
-        "price": "н/д",
+        "price": 7000,
         "valuta": { "ru": "сум", "en": "sum" }
       }
     ]

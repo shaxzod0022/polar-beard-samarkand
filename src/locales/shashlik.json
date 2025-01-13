@@ -4,85 +4,103 @@
     {
       "name": { "ru": "Молотый", "en": "Ground" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 22000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
       "name": { "ru": "Кусковой говядины", "en": "Chunk of Beef" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 24000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
       "name": { "ru": "Викин баран", "en": "Viking Lamb" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 26000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
       "name": { "ru": "Корейка баранина", "en": "Lamb Loin" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 28000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
       "name": { "ru": "Крылышки", "en": "Wings" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 22000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
       "name": { "ru": "Куриное филе", "en": "Chicken Fillet" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 22000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Рулет", "en": "Roll" },
+      "name": { "ru": "Наполеон", "en": "Napoleon" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 24000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Рюкзак баранина", "en": "Lamb Backpack" },
+      "name": { "ru": "Иллик шашлыки", "en": "Illik shashlik" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 22000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
       "name": { "ru": "Печень", "en": "Liver" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 22000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Курдюк баранина", "en": "Lamb fat tail" },
+      "description": { "ru": "", "en": "" },
+      "price": 24000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
       "name": { "ru": "Колбаски на гриле", "en": "Grilled Sausages" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 18000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Котлеты на мангале", "en": "Grilled Cutlets" },
+      "name": { "ru": "Шпикачки на мангале", "en": "Spikes on the grill" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 20000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": { "ru": "Чебуреки", "en": "Chebureki" },
+      "description": {
+        "ru": "Говядина с сирной начинкой",
+        "en": "Beef with cheese filling"
+      },
+      "price": 26000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
       "name": { "ru": "Овощи на мангале", "en": "Grilled Vegetables" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 20000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
       "name": { "ru": "Хлеб на мангале", "en": "Grilled Bread" },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 12000,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Шашлык ассорти", "en": "Shashlik Assortment" },
+      "name": {
+        "ru": "Баранина сгрибами 1 кг",
+        "en": "Lamb with mushrooms 1 kg"
+      },
       "description": { "ru": "", "en": "" },
-      "price": "н/д",
+      "price": 22000,
       "valuta": { "ru": "сум", "en": "sum" }
     }
   ]
