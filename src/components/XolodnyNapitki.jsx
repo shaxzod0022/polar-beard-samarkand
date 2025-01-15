@@ -12,22 +12,22 @@ const XolodnyNapitki = () => {
         {xolodnyNapitkiData.title[language]}
       </h2>
       <div className={`${style.flexCol} gap-8 md:w-[80%] w-full`}>
-        {xolodnyNapitkiData.dishes.map((salad, index) => (
-          <div key={index} className={`${style.flexBetween} font-titleFont`}>
+        {xolodnyNapitkiData.dishes.map((item, idx) => (
+          <div key={idx} className={`${style.flexBetween} font-titleFont`}>
             <div className="w-[70%]">
               <p className="font-semibold md:leading-10 sm:leading-7 leading-5  visible md:text-[40px] sm:text-[30px] text-[22px]">
-                {salad.name[language]}
+                {item.name[language]}
               </p>
               <span className="md:text-[30px] md:leading-10 sm:leading-7 leading-5  sm:text-[23px] text-[17px] text-gray-600">
-                {salad.description?.[language]}
+                {item.description?.[language]}
               </span>
             </div>
             <div className="text-right ">
               <span className="block font-bold md:text-[40px] md:leading-10 sm:leading-7 leading-5   sm:text-[30px] text-[22px]">
-                {salad.price}
+                {item.price}
               </span>
               <span className="md:text-[30px] sm:text-[23px] md:leading-10 sm:leading-7 leading-5  text-[17px] text-gray-500">
-                {salad.valuta[language]}
+                {item.price === null ? "" : item.valuta[language]}
               </span>
             </div>
           </div>
@@ -37,9 +37,9 @@ const XolodnyNapitki = () => {
         <img
           className="sm:w-[45%] w-[60%] sm:m-0 mb-4"
           src={xolNap1}
-          alt="salad"
+          alt="item"
         />
-        <img className="sm:w-[45%] w-[60%]" src={xolNap2} alt="salad" />
+        <img className="sm:w-[45%] w-[60%]" src={xolNap2} alt="item" />
       </div>
     </div>
   );

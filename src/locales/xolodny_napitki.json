@@ -2,58 +2,99 @@
   "title": { "ru": "Холодные напитки", "en": "Cold Drinks" },
   "dishes": [
     {
-      "name": { "ru": "Кока-кола 0.25л ж/б", "en": "Coca-Cola 0.25L can" },
-      "price": "н/д",
+      "name": {
+        "ru": "Кока кола 0.25л ж/б",
+        "en": "Coca-Cola 0.25L Can"
+      },
+      "price": null,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Кока-кола 0.25л стекло", "en": "Coca-Cola 0.25L glass" },
-      "price": "н/д",
+      "name": {
+        "ru": "Кока кола 0.25л стекло",
+        "en": "Coca-Cola 0.25L Glass"
+      },
+      "price": null,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Кока-кола 1л/1.5л", "en": "Coca-Cola 1L/1.5L" },
-      "price": "н/д",
+      "name": {
+        "ru": "Кока кола 1л/1.5л",
+        "en": "Coca-Cola 1L/1.5L"
+      },
+      "price": null,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Спрайт 1л/1.5л", "en": "Sprite 1L/1.5L" },
-      "price": "н/д",
+      "name": {
+        "ru": "Спрайт 1л/1.5л",
+        "en": "Sprite 1L/1.5L"
+      },
+      "price": null,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Фанта 1л/1.5л", "en": "Fanta 1L/1.5L" },
-      "price": "н/д",
+      "name": {
+        "ru": "Фанта 1л/1.5л",
+        "en": "Fanta 1L/1.5L"
+      },
+      "price": null,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Пепси 1л/0.5л", "en": "Pepsi 1L/0.5L" },
-      "price": "н/д",
+      "name": {
+        "ru": "Фанта 0.25л стекло",
+        "en": "Fanta 0.25L Glass"
+      },
+      "price": null,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Лимонад 0.5л", "en": "Lemonade 0.5L" },
-      "price": "н/д",
+      "name": {
+        "ru": "Пепси 1л/1.5л",
+        "en": "Pepsi 1L/1.5L"
+      },
+      "price": null,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Сок 1л", "en": "Juice 1L" },
-      "price": "н/д",
+      "name": {
+        "ru": "Лимонад 0.5л",
+        "en": "Lemonade 0.5L"
+      },
+      "price": null,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Баржоми 0.5л", "en": "Borjomi 0.5L" },
-      "price": "н/д",
+      "name": {
+        "ru": "Сок 1л",
+        "en": "Juice 1L"
+      },
+      "price": null,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Тархун 0.5л", "en": "Tarkhuna 0.5L" },
-      "price": "н/д",
+      "name": {
+        "ru": "Боржоми 0.5л",
+        "en": "Borjomi 0.5L"
+      },
+      "price": null,
       "valuta": { "ru": "сум", "en": "sum" }
     },
     {
-      "name": { "ru": "Вода 1.5л", "en": "Water 1.5L" },
-      "price": "н/д",
+      "name": {
+        "ru": "Чорток 0.5л",
+        "en": "Chortok 0.5L"
+      },
+      "price": null,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Вода 1.5л/0.5л",
+        "en": "Water 1.5L/0.5L"
+      },
+      "price": null,
       "valuta": { "ru": "сум", "en": "sum" }
     }
   ]

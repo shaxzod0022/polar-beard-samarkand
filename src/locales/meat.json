@@ -1,107 +1,140 @@
 {
-  "beef_courses": {
-    "title": {
-      "ru": "Вторые Блюда из Говядины",
-      "en": "Second Courses from Beef"
-    },
-    "dishes": [
-      {
-        "name": { "ru": "Филе по-техасски", "en": "Texas-Style Fillet" },
-        "description": {
-          "ru": "Филе, шампиньоны, соус барбекю",
-          "en": "Fillet, mushrooms, barbecue sauce"
-        },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
-      },
-      {
-        "name": { "ru": "Люля кебаб по Турецки", "en": "Turkish Lule Kebab" },
-        "description": {
-          "ru": "Фарш, баклажаны, специи",
-          "en": "Minced meat, eggplants, spices"
-        },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
-      },
-      {
-        "name": {
-          "ru": "Бефстроганов со сметаной и грибами",
-          "en": "Beef Stroganoff with Sour Cream and Mushrooms"
-        },
-        "description": { "ru": "", "en": "" },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
-      },
-      {
-        "name": { "ru": "Мясо по-французски", "en": "French-Style Meat" },
-        "description": {
-          "ru": "Мясо, картофель, лук, сыр",
-          "en": "Meat, potatoes, onions, cheese"
-        },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
-      }
-    ]
+  "title": {
+    "ru": "Вторые Блюда",
+    "en": "Second Courses"
   },
-  "chicken_courses": {
-    "title": {
-      "ru": "Вторые Блюда из Курицы",
-      "en": "Second Courses from Chicken"
+  "dishes": [
+    {
+      "name": {
+        "ru": "Медальоны в сливочном соусе",
+        "en": "Medallions in Cream Sauce"
+      },
+      "description": {
+        "ru": "(гов. вырезка, сливки, шампиньоны)",
+        "en": "(beef tenderloin, cream, mushrooms)"
+      },
+      "price": 100000,
+      "valuta": { "ru": "сум", "en": "sum" }
     },
-    "dishes": [
-      {
-        "name": { "ru": "Цыплёнок табака", "en": "Tabaka Chicken" },
-        "description": { "ru": "", "en": "" },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
+    {
+      "name": {
+        "ru": "Семечки жаренные с гарниром",
+        "en": "Roasted Seeds with Garnish"
       },
-      {
-        "name": { "ru": "Гауда", "en": "Gouda" },
-        "description": {
-          "ru": "С мясом с грибами в сливочном соусе",
-          "en": "With meat and mushrooms in creamy sauce"
-        },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
+      "description": {
+        "ru": "(говяжьи ребрышки, картофель по-деревенски)",
+        "en": "(beef ribs, rustic potatoes)"
       },
-      {
-        "name": { "ru": "Филе по-тайски", "en": "Thai-Style Fillet" },
-        "description": { "ru": "", "en": "" },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
-      }
-    ]
-  },
-  "lamb_courses": {
-    "title": {
-      "ru": "Вторые Блюда из Баранины",
-      "en": "Second Courses from Lamb"
+      "price": 65000,
+      "valuta": { "ru": "сум", "en": "sum" }
     },
-    "dishes": [
-      {
-        "name": { "ru": "Сковорода", "en": "Skillet" },
-        "description": {
-          "ru": "Баранина, картофель, специи",
-          "en": "Lamb, potatoes, spices"
-        },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
+    {
+      "name": {
+        "ru": "Мясо с овощами с гарниром",
+        "en": "Meat with Vegetables and Garnish"
       },
-      {
-        "name": { "ru": "Плов по-домашнему", "en": "Homestyle Pilaf" },
-        "description": {
-          "ru": "С мясом с грибами в сливочном соусе",
-          "en": "With meat and mushrooms in creamy sauce"
-        },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
+      "description": {
+        "ru": "(гов. вырезка, болг. перец, лук, соя, зелень)",
+        "en": "(beef tenderloin, bell pepper, onion, soy, greens)"
       },
-      {
-        "name": { "ru": "Казан кебаб", "en": "Kazan Kebab" },
-        "description": { "ru": "", "en": "" },
-        "price": "н/д",
-        "valuta": { "ru": "сум", "en": "sum" }
-      }
-    ]
-  }
+      "price": 90000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Мясо по-кутайски",
+        "en": "Meat in Kutai Style"
+      },
+      "description": {
+        "ru": "(гов. вырезка, кинза, трамп, помидоры черри, соя, соус)",
+        "en": "(beef tenderloin, cilantro, mushrooms, cherry tomatoes, soy sauce)"
+      },
+      "price": 80000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Яхна",
+        "en": "Yahna"
+      },
+      "description": {
+        "ru": "(говядина на пару)",
+        "en": "(steamed beef)"
+      },
+      "price": 200000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Жареный лагман",
+        "en": "Fried Lagman"
+      },
+      "description": {
+        "ru": "(гов. мясо, болг. перец, лук, соя, чеснок, помидоры, кунжут, лагман)",
+        "en": "(beef, bell pepper, onion, soy, garlic, tomatoes, sesame, lagman)"
+      },
+      "price": 45000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Табака",
+        "en": "Tabaka"
+      },
+      "description": {
+        "ru": "(курица на гриле)",
+        "en": "(grilled chicken)"
+      },
+      "price": 80000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Хашлама",
+        "en": "Khashlama"
+      },
+      "description": {
+        "ru": "(гов. мясо в собственном соусе, картофель по-деревенски)",
+        "en": "(beef in its own sauce, rustic potatoes)"
+      },
+      "price": 240000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Мясо по-французски",
+        "en": "Meat in French Style"
+      },
+      "description": {
+        "ru": "(гов. мясо, помидоры, майонез, сыр)",
+        "en": "(beef, tomatoes, mayonnaise, cheese)"
+      },
+      "price": 90000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Казан кебаб 1 порция",
+        "en": "Kazan Kebab (1 portion)"
+      },
+      "description": {
+        "ru": "(говядина, картофель)",
+        "en": "(beef, potatoes)"
+      },
+      "price": 50000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    },
+    {
+      "name": {
+        "ru": "Кролик в сливочном соусе",
+        "en": "Rabbit in Cream Sauce"
+      },
+      "description": {
+        "ru": "(мясо кролика, грибы, сливки)",
+        "en": "(rabbit meat, mushrooms, cream)"
+      },
+      "price": 75000,
+      "valuta": { "ru": "сум", "en": "sum" }
+    }
+  ]
 }

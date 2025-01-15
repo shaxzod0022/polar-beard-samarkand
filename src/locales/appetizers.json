@@ -66,45 +66,6 @@
       },
       "price": 35000,
       "valuta": { "ru": "сум", "en": "sum" }
-    },
-    {
-      "name": { "ru": "Жюльен грибной", "en": "Mushroom Julienne" },
-      "description": {
-        "ru": "(шампиньоны, сливки, сыр)",
-        "en": "(champignons, cream, cheese)"
-      },
-      "price": "недоступно",
-      "valuta": { "ru": "сум", "en": "sum" }
-    },
-    {
-      "name": { "ru": "Наггетсы", "en": "Nuggets" },
-      "description": {
-        "ru": "(кур. фарш, сухари панир)",
-        "en": "(chicken mince, breadcrumbs)"
-      },
-      "price": "недоступно",
-      "valuta": { "ru": "сум", "en": "sum" }
-    },
-    {
-      "name": { "ru": "Гренки", "en": "Croutons" },
-      "description": {
-        "ru": "(черный хлеб, чеснок, сыр)",
-        "en": "(black bread, garlic, cheese)"
-      },
-      "price": "недоступно",
-      "valuta": { "ru": "сум", "en": "sum" }
-    },
-    {
-      "name": {
-        "ru": "Закуска от шефа",
-        "en": "Appetizer from the Chef"
-      },
-      "description": {
-        "ru": "(говядина, баклажан, соус от шефа, сыр)",
-        "en": "(beef, eggplant, chef's sauce, cheese)"
-      },
-      "price": "недоступно",
-      "valuta": { "ru": "сум", "en": "sum" }
     }
   ]
 }

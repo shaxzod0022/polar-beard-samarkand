@@ -4,8 +4,10 @@ import { style } from "../utils/styles";
 
 const Header = () => {
   return (
-    <div className={`${style.flexCol} w-full
-     items-center`}>
+    <div
+      className={`${style.flexCol} w-full
+     items-center`}
+    >
       <img
         className="w-full h-[100vh] object-cover"
         src={Head}
